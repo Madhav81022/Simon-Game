@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    background-color: #E0F4FF;
+}
+
+.GameName{
+    text-align: center;
+    font-family: 'Aclonica';font-size: 22px;
+}
+.ScreenButton #b1{
+    text-decoration:none;
+    margin: 5px 4px;
+    font-size: 2rem; 
+    background-color: rgb(212, 175, 247);
+    border: 5px solid green;
+   
+}
+
